@@ -1,4 +1,4 @@
-# tesseract-ocr-doc-j
+# Tesseract documents Japanese translation
 These are Japanese translated documents needed at training Tesseract (version 3.03-3.05) for new languages.
 
 Original documents are ...
