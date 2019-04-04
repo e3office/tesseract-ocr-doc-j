@@ -11,3 +11,5 @@ https://github.com/tesseract-ocr/tesseract/wiki/ImproveQuality
 
 Make Box Files:
 https://github.com/tesseract-ocr/tesseract/wiki/Training-Tesseract-%E2%80%93-Make-Box-Files
+
+Trasnlation of 'tesseracticdar2007.pdf' will be added soon to understand overview of Tesseract-OCR.
