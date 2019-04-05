@@ -1,4 +1,5 @@
 # Tesseract documents Japanese translation
+# Tesseract ドキュメント 日本語対訳
 These are Japanese translated documents needed at training Tesseract (version 3.03-3.05) for new languages.
 
 オープンソースOCRソフトウェアTesseractのトレーニング（学習）にあたり、熟読を避けて通れなさそうなドキュメントの日本語対訳（Google翻訳にかけただけですが）を作成しましたので公開します。
