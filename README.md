@@ -12,6 +12,10 @@ https://github.com/tesseract-ocr/tesseract/wiki/ImproveQuality
 Make Box Files:
 https://github.com/tesseract-ocr/tesseract/wiki/Training-Tesseract-%E2%80%93-Make-Box-Files
 
+An Overview of the Tesseract OCR Engine:
+(It may too old and not enough, to understand overall of recent version.)
+https://github.com/tesseract-ocr/docs/blob/master/tesseracticdar2007.pdf
+
 Trasnlation of 'tesseracticdar2007.pdf' will be added soon to understand overview of Tesseract-OCR.
 
 # Tesseract ドキュメント 日本語対訳
@@ -28,4 +32,6 @@ https://github.com/tesseract-ocr/tesseract/wiki/ImproveQuality
 Boxファイルの作成：
 https://github.com/tesseract-ocr/tesseract/wiki/Training-Tesseract-%E2%80%93-Make-Box-Files
 
-近日、Tesseract-OCRエンジンの概要の理解に必要かと思われます、'tesseracticdar2007.pdf'の日本語対訳を掲載する予定です。
+Tesseract-OCRエンジンの概要：
+（内容が古すぎたみたいで、最近のバージョンの全容理解には向かないかもしれません。）
+https://github.com/tesseract-ocr/docs/blob/master/tesseracticdar2007.pdf
