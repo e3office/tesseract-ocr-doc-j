@@ -16,8 +16,6 @@ An Overview of the Tesseract OCR Engine:
 (It may too old and not enough, to understand overall of recent version.)
 https://github.com/tesseract-ocr/docs/blob/master/tesseracticdar2007.pdf
 
-Trasnlation of 'tesseracticdar2007.pdf' will be added soon to understand overview of Tesseract-OCR.
-
 # Tesseract ドキュメント 日本語対訳
 オープンソースOCRソフトウェアTesseractのトレーニング（学習）にあたり、熟読を避けて通れなさそうなドキュメントの日本語対訳（Google翻訳にかけただけですが）を作成しましたので公開します。
 
